@@ -1,0 +1,7 @@
+bs4==0.0.1
+lxml==4.8.0
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.1
+request==1.0.117
+requests==2.27.1
